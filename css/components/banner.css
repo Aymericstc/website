@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(255,255,255,0.7) 0%, rgba(0,0,0,0.2) 25%), url(https://w0.peakpx.com/wallpaper/316/969/HD-wallpaper-sochaux-fc-ligue-2-football-wooden-texture-france-sochaux-soccer-football-club-liga-2-fc-sochaux.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 60px;
+}
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	margin-bottom: 40px;
+}
